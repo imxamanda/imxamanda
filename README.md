@@ -1,5 +1,6 @@
 ## Oii! Eu sou a Amanda Vieira
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas.
+- 🌱 Pós-Graduanda em Desenvolvimento Web
 
 <div>
   <a href="https://github.com/imxamanda">
